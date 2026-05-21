@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/strawberry-wine/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Strawberry Wine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/strawberry-wine/) |
+| **Get License** | [Get a Licensing Quote for Strawberry Wine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/strawberry-wine/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7caab36c74a38363956bc924b70b3c88872f8d8da69c0d15e9022572096033e9` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
