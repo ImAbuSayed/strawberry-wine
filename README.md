@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/strawberry-wine/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Strawberry Wine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/strawberry-wine/) |
+| **Get License** | [Music Rights & Licensing for Strawberry Wine](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/strawberry-wine/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight driving down this old country road
+> Got me craving every secret you hold
+> Pulling over where the shadows combine
+> I just wanna taste your strawberry wine
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
